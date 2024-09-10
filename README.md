@@ -8,7 +8,6 @@ I'm a second year MSPPM DA student at Heinz. Before that, I had a large backgrou
 Strong visual decision-making skills (what to best depict information, how to format it, what best practices to follow)
 Some Tableau
 I hope to pursue a career in public sector consulting and having the ability to communicate information and data effectively to teams and clients are crucial for putting forward successful, data-driven work.
-
 # Portfolio
 - *Assignments:*
   - [Part 1 and 2](dataviz2.md)
