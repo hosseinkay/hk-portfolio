@@ -10,4 +10,6 @@ Some Tableau
 I hope to pursue a career in public sector consulting and having the ability to communicate information and data effectively to teams and clients are crucial for putting forward successful, data-driven work.
 
 # Portfolio
-Final project:
+Assignment 1:
+[Part 1 & 2](dataviz2.md)
+[Part 3](dataviz3.md)
