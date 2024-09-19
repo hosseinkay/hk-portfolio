@@ -10,8 +10,16 @@ I decided to see if I could fix the approach with the list. My first thought was
 This updated list I sketched out was meant to streamline the issues I noticed earlier. Primarily, I wanted to fix the issue of not being able to read the data while scrolling down. I noted that the total score and grade were the only features that can instantly be understood and thought of, making a tooltip that can open up when clicking over the country that shows the entire breakdown of the score. The breakdown as well, did not include any color coding or visuals, but remained simple and showed only the actual values for yes and no categories. 
 During my initial interviews I asked if the visual made sense to unpack. I got a few comments saying that the list made much more sense than the original, however there was still a problem with needing to scroll down to see how the scores were broken down and weighed. This made for a question on whether or not I should put the breakdown above the list or find a new workaround. 
 During the second critique, I showed the same visual I came up with, and was given similar comments from my peers. However, they did have some additional points to make. One of which was that, if I was trying to maintain the ranking among the list and it was causing a lot of issues, was the list actually worth including? I thought about the ranking of the countries, and the grading system between them. I realized that the countries that performed very well were at such close margins while those that were performing very poorly were far worse. I figured doing a list didn’t help as much as noticing the high performers and those that showed concerningly low scores. That was when I was suggested to try using a map instead. 
-I attempted a concept sketch for a map and noticed a lot of improvement. To get the low performers to clearly stand out in the map, I decided to do a red and blue diverging color scheme and keep some of the similar elements to break down the score via the tooltip. Another solution that came from this is that the score breakdown caption could theoretically be visible without needing to scroll down to see it. That way the audience can freely look around the map and easily be able to make sense of the scores and values they are seeing.
+I attempted a concept sketch for a map and noticed a lot of improvement.
 ![Sketch 2](sketch2.jpg)
+
+
+## Final Result
+
+I was really happy with the result and wanted to see how it would translate into tableau. When making it, I was very particular about just using two fonts, Tableau Bold for the titles and headers, and Georgia for any of the scoring or captions. I also altered the title to be a lot more simple and make it more open ended for the user to explore the data via the map. What helped is that there were more clear patterns that the audience could pick up on because they can see the countries that are on opposite ends of the spectrum stand out the most. To get the low performers to clearly stand out in the map, I decided to do a red and blue diverging color scheme and keep some of the similar elements to break down the score via the tooltip. Another solution that came from this is that the score breakdown caption could theoretically be visible without needing to scroll down to see it. That way the audience can freely look around the map and easily be able to make sense of the scores and values they are seeing.
+
+I also wanted to incorporate the Grade as well to the data, so I created a new data field that could include a letter grade for each country. I then added it to the tooltip when you hover over each country. The country name, grade, and toal score were large and at the top, and the subset of features that made up the score were laid out underneath.
+
 
 
 
@@ -25,3 +33,4 @@ I attempted a concept sketch for a map and noticed a lot of improvement. To get 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+[return to main page](README.md)
