@@ -12,3 +12,5 @@ I hope to pursue a career in public sector consulting and having the ability to 
 - *Assignments:*
   - [Part 1 and 2](dataviz2.md)
   - [Part 3](dataviz3.md)
+
+- [Assignment 3 & 4](dataviz4.md)
