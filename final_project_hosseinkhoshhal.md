@@ -42,6 +42,7 @@ For this project, I will be primarily using datasets available from the Office o
 A few sketches that I thought would make sense with the kind of data being used is a choropleth map of the District by Ward. Since DC has 8 wards, they can indicate geographically noticeable areas that have higher/lower retention rates. This can also transcend the Title I distinction too if, say, schools all over ward 8 show similar patterns or current turnover rates. Either way, I think the distinction would be helpful to include, so much so, that I included a tooltip that breaks down the overall turnover with a breakdown of title I and non-title I schools involved. 
 
 I also think in general the bar plots would help with distinguishing the wards for their retension rate, so something more value driven could be tied to a barplot.
+![Sketch 2](tswd1.jpg)
 
 
 ## Method and Medium:
