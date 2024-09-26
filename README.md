@@ -14,3 +14,5 @@ I hope to pursue a career in public sector consulting and having the ability to 
   - [Part 3](dataviz3.md)
 
 - [Assignment 3 & 4](dataviz4.md)
+
+- [Final Part 1](final_project_hosseinkhoshhal.md)
