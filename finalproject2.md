@@ -9,18 +9,21 @@ When developing the storyboard for my topic, I knew that I wanted to touch on fo
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The target audience for this data visualization project is primarily DC policymakers or policy students, educational administrators, and concerned community members. These individuals are deeply invested in understanding and addressing teacher turnover rates within DC Public Schools (DCPS). By breaking down the data by ward and presenting factors like turnover rates, average class sizes, and the effectiveness of programs like IMPACT, the goal is to reach individuals who have decision-making power in these areas.
+
+My approach to identifying interview participants was to target individuals who closely match this audience. I aimed to speak with a public policy student (classmate), a DC educator (an old coworker of mine), and a DC resident (a colleague from the DC metro area). 
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+I intended to see how my appraoch varies in terms of comprehnsion for all three individuals since they vary in terms of how directly related they are to the issue; the educator being the direct topic of discussion, the DC resident being a relevant community member but not fully immersed in the education space, and a policy student who can engage with the topic broadly but aren't aware of the current context of DC's issue. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Make the topic easy to understand     | What were your main takeaways from the story? Did you feel like something was missing in my breakdown? What would you have liked to see?                 |
+| Ensure the value and purpose of my visualizations are shown     | What did you think of the map/chart I showed? Were you able to understand them? Did they seem helpful? Would something else be more effective?                 |
+| There is a clear call to action at the end     | Did you feel that there was a strong basis for improving the IMPACT program? Would you feel inclined to advocate for changes?                 |
 
 
 Text here!
