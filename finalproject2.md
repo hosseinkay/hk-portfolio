@@ -56,7 +56,7 @@ Plot 2:
 
 
 
-| Questions               | Interview 1.1 1.2 1.3 (Classmates) | Interview 2 (DC Educator) | Interview 3 (DC Resident) |
+| Questions               | Interview 1.1 1.2 1.3 (Classmates - Early 20's) | Interview 2 (DC Educator - Early 30's) | Interview 3 (DC Resident - Late 40's) |
 |-------------------------|--------------------------------|-------------|-------------|
 | What were your main takeaways from the story?  | "I agree that there needs to be a change in the current program tackling Turnover"            | "There's much more defining aspects surrounding the turnover rate that teachers go through, but your story tells the next step toward a more nuanced understnading of the issue by looking at it by different regions of the District"            | "I was not aware of this issue at all, but I feel educated enough to be critical of current legislation"            |
 | Did you feel like something was missing in my breakdown?                        | Would have liked to see more information on why turnover rates got to where they are. There might be restraints in the data but perhaps incorporating articles or other sources to fill contextual gaps would help on why teachers are leaving or if there are reported places where teachers are going to.                               | Yes, there's a lot that I would like to see. If you can find the data that can show the average student class size, it would give a huge layer of support to why the teaching conditions in Title I schools are so difficult. Almost everyone teaching in elementary schools designated Title I have outrageous class sizes, I would love to see if there is overarching data out there that can show that.             | I'm sure there's a lot more to see surrounding the socioeconomic statuses of the communities in each Ward. This might be outside the realm/scope of your project but maybe incorporating the impact of what good retention of teachers in those communities could mean. Maybe with a visual or just including that point on how it's important.            |
@@ -70,8 +70,8 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
+| There's missing information that could flesh out issues surrounding why there's disparities in low vs high-income schools | I want to look at data available that I could try to add to my story, specifically on the average classroom sizes of schools (perhaps by Ward) or even average standardized test scores. If there are datasets available, I'll try to merge them with what I have and either make a new visualization such as a highlights table, or maybe incorporate them in plot 2 in the tooltip.  |
+| I'm missing a throughline with the turnover rate                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
